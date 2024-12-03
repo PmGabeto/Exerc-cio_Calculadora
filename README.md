@@ -1,0 +1,1 @@
+Fiz uma simples calculadora em HTML, CSS e Javascript para treinar alguns conceitos do JS. Meu objetivo com o tempo é adicionar novas funções para deixar mais responsivo e mais dinânimico como a calculadora do próprio Windowns. 
